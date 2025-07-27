@@ -1,1 +1,1 @@
-hello phravin treuno 
+print(hello phravin treuno) 
